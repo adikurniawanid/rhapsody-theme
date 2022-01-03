@@ -18,5 +18,9 @@
                 "path": "./themes/Orange-color-theme.json"
             }
         ]
+    },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/adikurniawanid/rhapsody-theme.git"
     }
 }

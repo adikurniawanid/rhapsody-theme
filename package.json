@@ -3,7 +3,7 @@
     "displayName": "Rhapsody Theme",
     "publisher": "AdiKurniawan",
     "description": "A beautiful rhapsody that leads to the dawn of the heart",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -20,7 +20,7 @@
         ]
     },
     "repository": {
-    "type": "git",
-    "url": "https://github.com/adikurniawanid/rhapsody-theme.git"
+        "type": "git",
+        "url": "https://github.com/adikurniawanid/rhapsody-theme.git"
     }
 }

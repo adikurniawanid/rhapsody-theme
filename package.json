@@ -3,7 +3,7 @@
     "displayName": "Rhapsody Theme",
     "publisher": "AdiKurniawan",
     "description": "A beautiful rhapsody that leads to the dawn of the heart",
-    "version": "0.4.0",
+    "version": "0.5.0",
     "engines": {
         "vscode": "^1.63.0"
     },

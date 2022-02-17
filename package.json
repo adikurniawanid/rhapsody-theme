@@ -4,7 +4,7 @@
     "publisher": "AdiKurniawan",
     "description": "A beautiful rhapsody that leads to the dawn of the heart",
     "icon": "images/rhapsody.png",
-    "version": "0.11.0",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.63.0"
     },

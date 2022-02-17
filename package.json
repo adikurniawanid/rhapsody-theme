@@ -19,9 +19,14 @@
                 "path": "./themes/Orange-color-theme.json"
             },
             {
-                "label": "Nord",
+                "label": "Nordic Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Nord-color-theme.json"
+            },
+            {
+                "label": "Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark-color-theme.json"
             }
         ]
     },
